@@ -1,0 +1,35 @@
+{
+  "name": "windrag",
+  "version": "2.0.1",
+  "description": "Simple and small library to create draggable windows in websites",
+  "main": "windrag.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/windrag.js.git"
+  },
+  "keywords": [
+    "windrag",
+    "drag",
+    "draggable-windows",
+    "website-windows",
+    "windows",
+    "draggable",
+    "window-dragger",
+    "drag-windows",
+    "window-engine",
+    "window",
+    "window-maker",
+    "website-window-maker",
+    "window-creator",
+    "web-windows"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/windrag.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/windrag.js#readme"
+}
